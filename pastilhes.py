@@ -3,7 +3,7 @@ from PIL import Image, ImageDraw, ImageFont
 import matplotlib.pyplot as plt
 
 # Carregar a imagem
-image_path = 'CCI19052024_0012.jpg'
+image_path = 'CCI19052024_0000.jpg'
 image = Image.open(image_path)
 
 # Função para desenhar a linha de referência
