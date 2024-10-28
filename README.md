@@ -16,38 +16,38 @@ Alem disso esse projeto tem a ver com o "projeto artisitico 2024", algo que eu f
   <img src="fox.webp" alt="Imagem 1" width="45%" />
   <img src="fotomosaico_v2.jpg" alt="Imagem 2" width="45%" />
 </p>
-
+    
 #### (imagem original feita com IA)
 
 
 ## dependencias
 
 
-[Lista completa de dependencias](https://github.com/https://github.com/guipateiro/fotomosaico2.0/requirements.txt)
+[Lista completa de dependencias](https://github.com/guipateiro/fotomosaico2.0/blob/main/requirements.txt)
 
 ## Checklist de Tarefas
 
 #### projeto base
-- <span style="color:gold; font-size:20px">■</span> fazer gerador manual de pastilhas
-- <span style="color:gold; font-size:20px">■</span> fazer o gerador de mosaicos
-- <span style="color:red; font-size:20px">■</span> criar o gerenciador de pastilhas
-- <span style="color:red; font-size:20px">■</span> gerenciador de mosaicos fisicamente
-- <span style="color:red; font-size:20px">■</span> remover os paths hardcoded
+- 🟨 fazer gerador manual de pastilhas
+- 🟨 fazer o gerador de mosaicos
+- 🟥 criar o gerenciador de pastilhas
+- 🟥 gerenciador de mosaicos fisicamente
+- 🟥 remover os paths hardcoded
 #### adicionais 
-- <span style="color:red; font-size:20px">■</span> opcoes de escolher tamanho de pastilhas
-- <span style="color:red; font-size:20px">■</span> opcao de upscale de imagem nativo
-- <span style="color:red; font-size:20px">■</span> criar interface para facilitar o uso
-- <span style="color:red; font-size:20px">■</span> opções de polls de pastilhas ou filtragem
+- 🟥 opcoes de escolher tamanho de pastilhas
+- 🟥 opcao de upscale de imagem nativo
+- 🟥 criar interface para facilitar o uso
+- 🟥 opções de polls de pastilhas ou filtragem
 #### "eu estou muito motivado"
-- <span style="color:black; font-size:20px" >■</span> integração com armazenamento de pastilhas na nuvem
-- <span style="color:black; font-size:20px" >■</span> banco de dados com metadados de pastilhas
-- <span style="color:black; font-size:20px" >■</span> uso em api 
+- ⬛ integração com armazenamento de pastilhas na nuvem
+- ⬛ banco de dados com metadados de pastilhas
+- ⬛ uso em api 
 
 
 #### legenda
-- <span style="color:green; font-size:20px" >■</span> **Tarefa Concluída**
-- <span style="color:gold; font-size:20px">■</span> **Em Andamento** 
-- <span style="color:red; font-size:20px">■</span> **Planejado**
+- 🟩 **Tarefa Concluída**
+- 🟨 **Em Andamento** 
+- 🟥 **Planejado**
 
 ## Como Usar
 
