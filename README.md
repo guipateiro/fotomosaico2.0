@@ -38,16 +38,19 @@ Alem disso esse projeto tem a ver com o "projeto artisitico 2024", algo que eu f
 - 🟥 opcao de upscale de imagem nativo
 - 🟥 criar interface para facilitar o uso
 - 🟥 opções de polls de pastilhas ou filtragem
+- 🟥 opção de escolher formula de aproximacao de imagens
 #### "eu estou muito motivado"
 - ⬛ integração com armazenamento de pastilhas na nuvem
 - ⬛ banco de dados com metadados de pastilhas
 - ⬛ uso em api 
+- ⬛ otimizar o tempo de processamento convertendo parte critica do codigo para C
 
 
 #### legenda
 - 🟩 **Tarefa Concluída**
 - 🟨 **Em Andamento** 
 - 🟥 **Planejado**
+- ⬛ **Arquivo morto**
 
 ## Como Usar
 
