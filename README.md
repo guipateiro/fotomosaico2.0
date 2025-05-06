@@ -79,4 +79,9 @@ Alem disso esse projeto tem a ver com o "projeto artisitico 2024", algo que eu f
 5. Para fazer o mosaico
     ```bash
    python.exe .\fotomosaico.py 
-   ```
+   ``
+6. Para rodar
+   front uvicorn app:app --reload
+   back npm start
+
+
